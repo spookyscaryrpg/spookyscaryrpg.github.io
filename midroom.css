@@ -1,0 +1,11 @@
+body{
+ background-color:black;
+ color: white;
+ font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+div.options {
+ color:white;
+ text-decoration: none;
+ align-content: center;
+}
