@@ -76,3 +76,23 @@
     justify-content: center;
     align-items:center;
 }
+
+.visible {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 2s linear;
+  }
+.hidden {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 5s, opacity 2s linear;
+}
+.visible2{
+    /* visibility: visible;
+    opacity: 1;
+    transition: opacity 5s linear; */
+    visibility: visible;
+    opacity: 1;
+    animation: fadein 8s;
+    
+}
