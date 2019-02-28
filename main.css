@@ -80,7 +80,7 @@
 .visible {
     visibility: visible;
     opacity: 1;
-    transition: opacity 2s linear;
+    animation: fadein 4s
   }
 .hidden {
     visibility: hidden;
@@ -95,4 +95,9 @@
     opacity: 1;
     animation: fadein 8s;
     
+}
+.visible3{
+    visibility: visible;
+    opacity: 1;
+    animation: fadein 10s;
 }
