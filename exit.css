@@ -1,0 +1,17 @@
+.door {
+    background-image: url("https://thefirestation.nz/wp-content/uploads/2017/03/bigstock-Open-Door-To-Dark-Room-With-Br-81520766-e1488769866162-1024x476.jpg");
+          background-repeat: no-repeat;
+          background-size: cover;
+
+}
+.door1{
+    height:100%;
+    width:100%;
+}
+body    {
+    background-color: black;
+}
+a   {
+    position: absolute; 
+    left:550px;  top:200px;
+}
