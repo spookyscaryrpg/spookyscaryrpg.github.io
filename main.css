@@ -101,3 +101,6 @@
     opacity: 1;
     animation: fadein 10s;
 }
+a:visited{
+    color:white;
+}
